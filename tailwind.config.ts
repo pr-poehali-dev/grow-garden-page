@@ -61,6 +61,21 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				game: {
+					orange: '#FF6B35',
+					green: '#95CEB4',
+					cream: '#ECDIC4',
+					cyan: '#4ED7D1',
+					purple: '#DDA0DD',
+					navy: '#2C3E50'
+				},
+				rarity: {
+					common: '#95CEB4',
+					uncommon: '#4ED7D1',
+					rare: '#DDA0DD',
+					epic: '#FF6B35',
+					legendary: '#FFD700'
 				}
 			},
 			borderRadius: {
